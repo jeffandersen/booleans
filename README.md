@@ -17,7 +17,7 @@ Booleans.create().then(function(bool) {
   return bool.update(true);
 }).then(function(bool) {
   // { id: '8a56ff37-1adf-4fd4-a5e0-7643af5d343e', val: true}
-  return bool.delete();
+  return bool.destroy();
 }).then(function(bool) {
   // { id: undefined, val: undefined }
 });
