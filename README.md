@@ -27,3 +27,7 @@ Booleans.get(id).then(function(bool) {
   // { id: '670046ff-49e3-48f9-b3c6-715639e68a47', val: false}
 });
 ```
+
+### License
+
+Don't ever use this.
