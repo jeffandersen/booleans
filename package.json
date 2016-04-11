@@ -1,0 +1,26 @@
+{
+  "name": "booleans",
+  "version": "0.0.2",
+  "description": "Client for booleans.io service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffandersen/booleans.git"
+  },
+  "keywords": [
+    "booleans",
+    "client"
+  ],
+  "author": "Jeff Andersen <@jeffandersen>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffandersen/booleans/issues"
+  },
+  "homepage": "https://github.com/jeffandersen/booleans#readme",
+  "dependencies": {
+    "request": "2.70.0"
+  }
+}
